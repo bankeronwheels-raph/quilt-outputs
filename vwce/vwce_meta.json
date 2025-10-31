@@ -1,6 +1,6 @@
 {
   "ticker": "VWCE.XETRA",
-  "generated_utc": "2025-10-31T15:47:13.218909+00:00",
+  "generated_utc": "2025-10-31T16:40:49.332522+00:00",
   "source": "EODHD fundamentals",
   "mapping_file": "scripts/vwce/vwce.xlsx",
   "outputs": [
