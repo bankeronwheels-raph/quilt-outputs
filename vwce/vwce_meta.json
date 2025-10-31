@@ -1,12 +1,14 @@
 {
   "ticker": "VWCE.XETRA",
-  "generated_utc": "2025-10-31T10:49:29.725638+00:00",
+  "generated_utc": "2025-10-31T11:02:18.784328+00:00",
   "source": "EODHD fundamentals",
   "mapping_file": "scripts/vwce/vwce.xlsx",
   "outputs": [
     "vwce_holdings_top10.csv",
     "vwce_country_exposure.csv",
     "vwce_region_exposure.csv",
-    "vwce_dev_em.csv"
+    "vwce_dev_em.csv",
+    "vwce_size_buckets.csv",
+    "vwce_sector_cycle.csv"
   ]
 }
