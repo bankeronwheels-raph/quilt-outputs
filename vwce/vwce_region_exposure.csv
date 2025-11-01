@@ -1,5 +1,5 @@
 region,weight
-North America,65.662
+US,65.662
 Europe ex-UK,11.200000000000001
 Emerging Asia,6.016
 Pacific ex-Japan,5.906000000000001
@@ -7,3 +7,4 @@ Japan,5.709
 United Kingdom,3.17264
 Middle East & Africa,1.377
 Latin America,0.958
+Canada,0.0
