@@ -6,6 +6,18 @@
 developed=89.82
 emerging=10.18
 
+# Factor Style Matrix (percent) - MANUAL
+# 3x3 grid: Size (Large/Mid/Small) x Style (Value/Blend/Growth)
+style_large_value=24
+style_large_blend=37
+style_large_growth=22
+style_mid_value=5
+style_mid_blend=7
+style_mid_growth=4
+style_small_value=0
+style_small_blend=0
+style_small_growth=0
+
 # KPIs below are AUTO-CALCULATED:
 # - top10_weight: Sum of top 10 holdings from vwce_holdings_top10.csv
 # - dominant_geography: From meta.json (Asset_Allocation.Stock US.Long_%)
