@@ -1,6 +1,6 @@
 {
   "ticker": "VWCE.XETRA",
-  "generated_utc": "2025-11-02T03:15:02.205372+00:00",
+  "generated_utc": "2025-11-02T09:41:21.969409+00:00",
   "source": "EODHD fundamentals",
   "mapping_file": "scripts/vwce/vwce.xlsx",
   "outputs": [
@@ -8,7 +8,9 @@
     "vwce_country_exposure.csv",
     "vwce_region_exposure.csv",
     "vwce_dev_em.csv",
+    "vwce_region_rollup_detail.csv",
     "vwce_size_buckets.csv",
-    "vwce_sector_cycle.csv"
+    "vwce_sector_cycle.csv",
+    "vwce_region_annual.csv"
   ]
 }
