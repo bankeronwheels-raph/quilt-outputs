@@ -1,0 +1,11 @@
+# VWCE Manual Configuration
+# Upload this file to GitHub manually; it will be read by the Elementor widget
+# Format: key=value (one per line)
+
+# Market Type Split (percent)
+developed=89.82
+emerging=10.18
+
+# Dashboard KPIs (update these manually)
+top10_weight=17.9
+dominant_geography=United States (66%)
