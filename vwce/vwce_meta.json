@@ -1,8 +1,10 @@
 {
   "ticker": "VWCE.XETRA",
-  "generated_utc": "2025-11-02T10:00:25.515781+00:00",
+  "generated_utc": "2025-11-02T10:08:32.923045+00:00",
   "source": "EODHD fundamentals",
   "mapping_file": "scripts/vwce/vwce.xlsx",
+  "us_stock_long_pct": null,
+  "dominant_geography": "US (data unavailable)",
   "outputs": [
     "vwce_holdings_top10.csv",
     "vwce_country_exposure.csv",
