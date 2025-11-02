@@ -1,5 +1,4 @@
 eodhd_field,mapped_region,weight
-North America,North America,65.662
 United Kingdom,United Kingdom,3.17264
 Europe Developed,Europe ex-UK,10.954
 Europe Emerging,Europe ex-UK,0.246
@@ -9,3 +8,5 @@ Australasia,Pacific ex-Japan,1.698
 Asia Developed,Pacific ex-Japan,4.208
 Asia Emerging,Emerging Asia,6.016
 Latin America,Latin America,0.958
+United States (derived Asset_Allocation),United States,62.73636
+Canada (NA minus US),Canada,2.9256400000000085
