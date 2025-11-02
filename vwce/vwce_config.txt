@@ -2,10 +2,11 @@
 # Upload this file to GitHub manually; it will be read by the Elementor widget
 # Format: key=value (one per line)
 
-# Market Type Split (percent)
+# Market Type Split (percent) - MANUAL (EODHD mapping is not accurate)
 developed=89.82
 emerging=10.18
 
-# Dashboard KPIs (update these manually)
-top10_weight=17.9
-dominant_geography=United States (66%)
+# KPIs below are AUTO-CALCULATED:
+# - top10_weight: Sum of top 10 holdings from vwce_holdings_top10.csv
+# - dominant_geography: From meta.json (Asset_Allocation.Stock US.Long_%)
+# Only add overrides here if you want to manually set them
